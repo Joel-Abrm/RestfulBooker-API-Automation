@@ -1,3 +1,4 @@
+![API Automation Tests](https://github.com/Joel-Abrm/RestfulBooker-API-Automation/actions/workflows/pytest.yml/badge.svg)
 # Restful Booker API Automation Framework
 
 A Python-based API automation framework built using **Pytest, Requests and Allure** to automate and validate REST API operations.
